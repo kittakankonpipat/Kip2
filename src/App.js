@@ -1,9 +1,10 @@
+import Student from "./components/Student";
 
 function App() {
     return(
         <div>
-            <h1>Create ReactJS Manually</h1>
-            <p>Occaecat duis exereitation proident ullamco eu.</p>
+            <h1>Hello from ReactJS</h1>
+            <Student />
         </div>
     );
 }
